@@ -120,7 +120,7 @@ const experiences = [
     company_name: "École Supérieure La Canadienne",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "Octobre 2024 - Août 2021",
+    date: "Octobre 2022 - Août 2023",
     points: [
       "Développement et maintenance d'applications web en utilisant React.js et d'autres technologies associées.",
       "Collaboration avec des équipes interfonctionnelles, y compris des designers, des chefs de produit et d'autres développeurs, pour créer des produits de haute qualité.",
@@ -133,7 +133,7 @@ const experiences = [
     company_name: "École Supérieure La Canadienne",
     icon: tesla,
     iconBg: "#E6DEDD",
-    date: "Janvier 2021 - Février 2022",
+    date: "Décembre 2023 - Février 2024",
     points: [
       "Développement et maintenance d'applications web en utilisant React.js et d'autres technologies associées.",
       "Collaboration avec des équipes interfonctionnelles, y compris des designers, des chefs de produit et d'autres développeurs, pour créer des produits de haute qualité.",
@@ -146,7 +146,7 @@ const experiences = [
     company_name: "École Supérieure La Canadienne",
     icon: shopify,
     iconBg: "#383E56",
-    date: "Janvier 2022 - Janvier 2023",
+    date: "Mai 2024 - Décembre 2024",
     points: [
       "Développement et maintenance d'applications web en utilisant React.js et d'autres technologies associées.",
       "Collaboration avec des équipes pluridisciplinaires, y compris des designers, des chefs de produit et d'autres développeurs, pour créer des produits de haute qualité.",
