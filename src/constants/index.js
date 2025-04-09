@@ -28,7 +28,7 @@ import {
 export const navLinks = [
   {
     id: "about",
-    title: "A_propos",
+    title: "À propos",
   },
   {
     id: "work",
@@ -42,15 +42,15 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Developpeur Web",
+    title: "Développeur Web",
     icon: web,
   },
   {
-    title: "Developpeur React-JS",
+    title: "Développeur React JS",
     icon: mobile,
   },
   {
-    title: "Developpeur Backend(Laravel)",
+    title: "Développeur Backend (Laravel)",
     icon: backend,
   },
   {
@@ -101,26 +101,26 @@ const technologies = [
     icon: threejs,
   },
   {
-    name: "git",
+    name: "Git",
     icon: git,
   },
   {
-    name: "figma",
+    name: "Figma",
     icon: figma,
   },
   {
-    name: "docker",
+    name: "Docker",
     icon: docker,
   },
 ];
 
 const experiences = [
   {
-    title: "Developpeur React.js",
-    company_name: "Ecole Superieure la canadienne",
+    title: "Développeur React.js",
+    company_name: "École Supérieure La Canadienne",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "Octobre 2024 - Aout 2021",
+    date: "Octobre 2024 - Août 2021",
     points: [
       "Développement et maintenance d'applications web en utilisant React.js et d'autres technologies associées.",
       "Collaboration avec des équipes interfonctionnelles, y compris des designers, des chefs de produit et d'autres développeurs, pour créer des produits de haute qualité.",
@@ -129,137 +129,136 @@ const experiences = [
     ],
   },
   {
-    title: "React Native Developer",
-    company_name: "Ecole Superieure la canadienne",
+    title: "Développeur React Native",
+    company_name: "École Supérieure La Canadienne",
     icon: tesla,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "Janvier 2021 - Février 2022",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Développement et maintenance d'applications web en utilisant React.js et d'autres technologies associées.",
+      "Collaboration avec des équipes interfonctionnelles, y compris des designers, des chefs de produit et d'autres développeurs, pour créer des produits de haute qualité.",
+      "Mise en œuvre d'un design responsive et garantie de la compatibilité entre différents navigateurs.",
+      "Participation aux revues de code et fourniture de retours constructifs aux autres développeurs.",
     ],
   },
   {
-    title: "Web Developer",
-    company_name: "Ecole Superieure la canadienne",
+    title: "Développeur Web",
+    company_name: "École Supérieure La Canadienne",
     icon: shopify,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "Janvier 2022 - Janvier 2023",
     points: [
       "Développement et maintenance d'applications web en utilisant React.js et d'autres technologies associées.",
       "Collaboration avec des équipes pluridisciplinaires, y compris des designers, des chefs de produit et d'autres développeurs, pour créer des produits de haute qualité.",
       "Mise en œuvre d'un design réactif et garantie de la compatibilité entre navigateurs.",
-      "Anticipation aux revues de code et fourniture de retours constructifs aux autres développeurs.",
+      "Participation aux revues de code et fourniture de retours constructifs aux autres développeurs.",
     ],
   },
   {
-    title: "Full stack Developer",
-    company_name: "Ecole Superieure la canadienne",
+    title: "Développeur Full Stack",
+    company_name: "École Supérieure La Canadienne",
     icon: meta,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "Janvier 2025 - Présent",
     points: [
-  "Développement et maintenance d’applications web en utilisant React.js et d’autres technologies associées.",
-  "Collaboration avec des équipes pluridisciplinaires, y compris des designers, des chefs de produit et d’autres développeurs, pour créer des produits de haute qualité.",
-  "Mise en œuvre d’un design réactif et garantie de la compatibilité entre navigateurs.",
-  "Participation aux revues de code et fourniture de retours constructifs aux autres développeurs.",
-],
-
+      "Développement et maintenance d’applications web en utilisant React.js et d’autres technologies associées.",
+      "Collaboration avec des équipes pluridisciplinaires, y compris des designers, des chefs de produit et d’autres développeurs, pour créer des produits de haute qualité.",
+      "Mise en œuvre d’un design réactif et garantie de la compatibilité entre navigateurs.",
+      "Participation aux revues de code et fourniture de retours constructifs aux autres développeurs.",
+    ],
   },
 ];
 
 const testimonials = [
   {
     testimonial:
-      "Je pensais qu'il était impossible de créer un site web aussi beau que ceci, mais Ma curiosité et ma percévérance m'ont prouvés le contraire 😁.",
+      "Je pensais qu'il était impossible de créer un site web aussi beau que ceci, mais ma curiosité et ma persévérance m'ont prouvé le contraire 😁.",
     name: "Kamdem Joseph",
-    designation: "CFO",
+    designation: "Directeur Financier",
     company: "Co",
     image: "https://randomuser.me/api/portraits/women/4.jpg",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
+      "Je n'ai jamais rencontré un développeur web qui se soucie autant du succès de ses clients que Rick.",
     name: "Yann",
-    designation: "COO",
+    designation: "Directeur des Opérations",
     company: "DEF Corp",
     image: "https://randomuser.me/api/portraits/men/5.jpg",
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
+      "Après que Rick a optimisé notre site web, notre trafic a augmenté de 50 %. Nous ne pouvons pas assez le remercier !",
     name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
+    designation: "Directrice Technique",
+    company: "20 Enterprises",
     image: "https://randomuser.me/api/portraits/women/6.jpg",
   },
 ];
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Location de voitures",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Plateforme basée sur le web qui permet aux utilisateurs de rechercher, réserver et gérer des locations de voitures auprès de divers fournisseurs, offrant une solution pratique et efficace pour les besoins de transport.",
     tags: [
       {
-        name: "react",
+        name: "React",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "MongoDB",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "Tailwind",
         color: "pink-text-gradient",
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Frankam487",
   },
   {
-    name: "Job IT",
+    name: "Emploi IT",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Application web qui permet aux utilisateurs de rechercher des offres d'emploi, de consulter les fourchettes de salaires estimées pour les postes et de localiser les emplois disponibles en fonction de leur emplacement actuel.",
     tags: [
       {
-        name: "react",
+        name: "React",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "Rest API",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "SCSS",
         color: "pink-text-gradient",
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Frankam487",
   },
   {
-    name: "Trip Guide",
+    name: "Guide de voyage",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "Une plateforme complète de réservation de voyages qui permet aux utilisateurs de réserver des vols, des hôtels et des voitures de location, et propose des recommandations curated pour des destinations populaires.",
     tags: [
       {
-        name: "nextjs",
+        name: "Next.js",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "Supabase",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "CSS",
         color: "pink-text-gradient",
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Frankam487",
   },
 ];
 
